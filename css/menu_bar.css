@@ -1,0 +1,48 @@
+root
+{
+display: block;
+}
+
+.menu bar
+{
+float:left;
+height: 20px;
+width:74%;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+box-shadow: Opx Opx 5px rgba(0,0,0,.5);
+margin-bottom: 5px;
+border: Opx ridge gray;
+background-color:white;
+padding:lOpx;
+font-size: lOpt;
+}
+
+.login
+{
+float: right;
+font-size: lOpt;
+}
+
+.menu option
+{
+align-items: left;
+float: left;
+width: 30%;
+background-color:white;
+}
+
+.menu option li
+{
+float: right;
+list-style-type: none;
+}
+
+a{
+text-decoration: none;
+}
+
+a:hover
+{
+color: gray;
+}

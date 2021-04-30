@@ -1,0 +1,17 @@
+root {
+display: block;
+}
+
+.kolom footer
+{
+float:left;
+height: lOOpx;
+width:74%;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+box-shadow: Opx Opx 5px rgba(0,0,0,.5);
+margin-bottom: 5px;
+border: Opx ridge gray;
+background-color:white;
+padding:lOpx;
+}
