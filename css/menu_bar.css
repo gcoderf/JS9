@@ -10,18 +10,18 @@ height: 20px;
 width:74%;
 border-top-left-radius:4px;
 border-top-right-radius:4px;
-box-shadow: Opx Opx 5px rgba(0,0,0,.5);
+box-shadow: 0px 0px 5px rgba(0,0,0,.5);
 margin-bottom: 5px;
-border: Opx ridge gray;
+border: 0px ridge gray;
 background-color:white;
-padding:lOpx;
-font-size: lOpt;
+padding:10px;
+font-size: 10pt;
 }
 
 .login
 {
 float: right;
-font-size: lOpt;
+font-size: 10pt;
 }
 
 .menu option
